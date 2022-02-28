@@ -1,0 +1,46 @@
+body {
+	font-family: menlo, consolas, monospace;
+	padding-top: 5rem;
+	padding-left: 2rem;
+	background-color: #000000;
+	color: #ffffff;
+}
+
+a {
+	color: #78dce8;
+	text-decoration: none;
+}
+
+a.nostyle {
+	color: inherit;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #a9dc76;
+	text-decoration: underline;
+}
+
+.yellow {
+	color: #ffd866;
+}
+
+.red {
+	color: #ff6188;
+}
+
+.orange {
+	color: #fc9867;
+}
+
+.light-orange {
+	color: #E69F66;
+}
+
+.green {
+	color: #a9dc76;
+}
+
+.purple {
+	color: #AE81FF;
+}
