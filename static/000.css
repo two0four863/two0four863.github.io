@@ -27,6 +27,11 @@ a:hover {
 	word-wrap: break-word;
 }
 
+.comments {
+	max-width: 70vw;
+	word-wrap: break-word;
+}
+
 .yellow {
 	color: #ffd866;
 }
