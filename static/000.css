@@ -39,6 +39,10 @@ a:hover {
 	color: #fc9867;
 }
 
+.muted {
+	color: #808080;
+}
+
 .light-orange {
 	color: #E69F66;
 }
